@@ -15,8 +15,8 @@ a = f(w1*x1 + w2*x2 + w3*x3 + ... + wi*xi + b)
 Where:
 - `a` represents the activation of the neuron,
 - `f` denotes the activation function,
-- `wᵢ` are the weights associated with the respective inputs `xᵢ`,
-- `xᵢ` are the input values to the neuron,
+- `wi` are the weights associated with the respective inputs `xᵢ`,
+- `xi` are the input values to the neuron,
 - `b` is the bias term.
 
 - ![image](https://github.com/Arpa0/Assignment1-Understanding-and-Implementing-the-Activation-Function/assets/73717696/e9b83827-ec1e-4845-97a5-9abee8a9d3d8)
