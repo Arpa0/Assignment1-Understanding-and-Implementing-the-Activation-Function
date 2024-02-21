@@ -15,7 +15,7 @@ a = f(w1*x1 + w2*x2 + w3*x3 + ... + wi*xi + b)
 Where:
 - `a` represents the activation of the neuron,
 - `f` denotes the activation function,
-- `wi` are the weights associated with the respective inputs `xᵢ`,
+- `wi` are the weights associated with the respective inputs `xi`,
 - `xi` are the input values to the neuron,
 - `b` is the bias term.
 
